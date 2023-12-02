@@ -1,0 +1,6 @@
+name: MathChatPE
+version: 1.0.0
+author: Terpz710
+api: [4.0.0, 5.0.0]
+main: Terpz710\MathChat\Main
+description: Make players solve math problems for rewards!
