@@ -26,7 +26,7 @@ class Main extends PluginBase implements Listener
                 ],
                 "win_command" => "give {player} diamond",
                 "win_message" => "§l§f(§a!§f)§r§e {player} §fhas found the answer to the calculation §e{math}§f which was §b{result}§f!",
-                "message_server" => "§l§f(§a!§f)§r§f The first player to find the §c{math}§f calculation wins a §aprize§f!"
+                "message_server" => "§l§f(§a!§f)§r§f The first player to find the §e{math}§f calculation wins a §aprize§f!"
             ]);
         }
 
